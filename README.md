@@ -4,10 +4,15 @@
 ## Who Am I?<br>
 A travel enthusiast, a passionate foodie, and a software developer constantly evolving.<br>I explore the world with my backpack and laptop, seeking the next adventure and challenge.<br><br>
 ## My Passions 🌍<br>
-When I'm not weaving code, you'll find me exploring new destinations, savoring exotic flavors, and capturing moments with my camera.<br>I believe in a balance between life and work, always ready for a good cup of coffee and a nice conversation.<br><br>
+When I'm not weaving code, you'll find me exploring new destinations, savoring exotic flavors, capturing moments with my camera or reading a good book.  
+I believe in a balance between life and work, always ready for a good cup of coffee and a nice conversation.<br><br>
 ## Present Mission 🚀<br>
 Embarking on a continuous quest for knowledge and innovation.<br>Navigating the uncharted waters of tech, sculpting ideas into reality.<br>Let's build wonders together!<br><br>
 Get in Touch 🌐
+Actively exploring new professional opportunities and enthusiastic about connecting with like-minded individuals.  
+My primary focus lies in the captivating realm of artificial intelligence. Eager to continue my learning journey in this field, I am on the lookout for exciting opportunities at my next destination.
+
+Feel free to reach out! 📧✨
 
 
 ## 🌐 Socials:
